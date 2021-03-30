@@ -14,7 +14,7 @@ import java.util.Scanner;
 public class ForExcercies {
 
     /**
-     * @param args the command line arguments
+     * @param args the command line arguments testando github
      */
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
